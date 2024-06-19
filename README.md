@@ -1,4 +1,4 @@
-## Hi there, I am Sandip 👋
+## Hi there, I'm Sandip 👋
 
 <!--
 **sandipkalola/sandipkalola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
