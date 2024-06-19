@@ -1,5 +1,11 @@
 ## Hi there, I'm Sandip 👋
 
+### Connect with me:
+[![Skype Badge](https://img.shields.io/badge/-sandipkalola-blue?style=flat&logo=Skype&logoColor=white&link=skype:sandip927)](skype:sandip927)
+[![Gmail Badge](https://img.shields.io/badge/-sandipkalola1990@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sandipkalola1990@gmail.com)](mailto:sandipkalola1990@gmail.com)
+
+<img src="https://github-readme-stats.vercel.app/api?username=sandipkalola" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandipkalola&theme=vue" />
 <!--
 **sandipkalola/sandipkalola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
